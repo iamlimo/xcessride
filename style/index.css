@@ -1,0 +1,15 @@
+#header{
+    background-color: #000;
+}
+
+#payBody{
+margin-top: 30px;
+}
+
+#payee{
+    margin-top: 10em;
+}
+
+.card{
+    border: none;
+}
